@@ -1,0 +1,7 @@
+id	prompt_ru	answer_tr	audio_id
+01-01	Поздоровайтесь	Merhaba.	hello
+01-02	Назовите имя (подставьте своё)	Benim adım …	name
+01-03	Как тебя зовут?	Senin adın ne?	question-name
+01-04	Приятно познакомиться	Memnun oldum.	pleased
+01-05	Попросите повторить	Tekrar eder misin?	repeat
+01-06	Медленнее, пожалуйста	Yavaş, lütfen.	slow

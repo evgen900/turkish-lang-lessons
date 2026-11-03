@@ -1,0 +1,123 @@
+{
+  "engine": "Microsoft Edge TTS via edge-tts",
+  "generated_date": "2026-11-03",
+  "rate": "-10%",
+  "kind": "synthetic",
+  "native_listener_review": "not performed",
+  "clips": [
+    {
+      "id": "n-0",
+      "text": "sıfır",
+      "voice": "tr-TR-EmelNeural",
+      "file": "n-0.mp3"
+    },
+    {
+      "id": "n-1",
+      "text": "bir",
+      "voice": "tr-TR-AhmetNeural",
+      "file": "n-1.mp3"
+    },
+    {
+      "id": "n-2",
+      "text": "iki",
+      "voice": "tr-TR-EmelNeural",
+      "file": "n-2.mp3"
+    },
+    {
+      "id": "n-3",
+      "text": "üç",
+      "voice": "tr-TR-AhmetNeural",
+      "file": "n-3.mp3"
+    },
+    {
+      "id": "n-4",
+      "text": "dört",
+      "voice": "tr-TR-EmelNeural",
+      "file": "n-4.mp3"
+    },
+    {
+      "id": "n-5",
+      "text": "beş",
+      "voice": "tr-TR-AhmetNeural",
+      "file": "n-5.mp3"
+    },
+    {
+      "id": "n-6",
+      "text": "altı",
+      "voice": "tr-TR-EmelNeural",
+      "file": "n-6.mp3"
+    },
+    {
+      "id": "n-7",
+      "text": "yedi",
+      "voice": "tr-TR-AhmetNeural",
+      "file": "n-7.mp3"
+    },
+    {
+      "id": "n-8",
+      "text": "sekiz",
+      "voice": "tr-TR-EmelNeural",
+      "file": "n-8.mp3"
+    },
+    {
+      "id": "n-9",
+      "text": "dokuz",
+      "voice": "tr-TR-AhmetNeural",
+      "file": "n-9.mp3"
+    },
+    {
+      "id": "n-10",
+      "text": "on",
+      "voice": "tr-TR-EmelNeural",
+      "file": "n-10.mp3"
+    },
+    {
+      "id": "numbers",
+      "text": "sıfır. bir. iki. üç. dört. beş. altı. yedi. sekiz. dokuz. on.",
+      "voice": "tr-TR-AhmetNeural",
+      "file": "numbers.mp3"
+    },
+    {
+      "id": "request",
+      "text": "Bir çay, lütfen.",
+      "voice": "tr-TR-EmelNeural",
+      "file": "request.mp3"
+    },
+    {
+      "id": "question",
+      "text": "Kaç çay?",
+      "voice": "tr-TR-AhmetNeural",
+      "file": "question.mp3"
+    },
+    {
+      "id": "thanks",
+      "text": "Teşekkür ederim.",
+      "voice": "tr-TR-EmelNeural",
+      "file": "thanks.mp3"
+    },
+    {
+      "id": "dialogue",
+      "text": "Merhaba. Bir çay, lütfen. Kaç çay? Bir çay, lütfen. Teşekkür ederim.",
+      "voice": "tr-TR-AhmetNeural",
+      "file": "dialogue.mp3"
+    },
+    {
+      "id": "dict-1",
+      "text": "üç. bir. yedi.",
+      "voice": "tr-TR-AhmetNeural",
+      "file": "dict-1.mp3"
+    },
+    {
+      "id": "dict-2",
+      "text": "dört. sıfır. on.",
+      "voice": "tr-TR-EmelNeural",
+      "file": "dict-2.mp3"
+    },
+    {
+      "id": "dict-3",
+      "text": "İki çay, lütfen.",
+      "voice": "tr-TR-AhmetNeural",
+      "file": "dict-3.mp3"
+    }
+  ]
+}

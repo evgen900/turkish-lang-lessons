@@ -1,0 +1,117 @@
+{
+  "engine": "Microsoft Edge TTS via edge-tts",
+  "generated_date": "2026-11-03",
+  "rate": "-10%",
+  "kind": "synthetic",
+  "native_listener_review": "not performed",
+  "clips": [
+    {
+      "id": "alphabet-1",
+      "text": "araba. balık. cam. çay. deniz. ev. fil. göz.",
+      "voice": "tr-TR-EmelNeural",
+      "file": "alphabet-1.mp3"
+    },
+    {
+      "id": "alphabet-2",
+      "text": "dağ. hava. ılık. iki. jilet. kedi. limon.",
+      "voice": "tr-TR-EmelNeural",
+      "file": "alphabet-2.mp3"
+    },
+    {
+      "id": "alphabet-3",
+      "text": "masa. nar. okul. ön. para. renk. su.",
+      "voice": "tr-TR-AhmetNeural",
+      "file": "alphabet-3.mp3"
+    },
+    {
+      "id": "alphabet-4",
+      "text": "şeker. top. un. üç. vapur. yol. zaman.",
+      "voice": "tr-TR-AhmetNeural",
+      "file": "alphabet-4.mp3"
+    },
+    {
+      "id": "vowels",
+      "text": "a. e. ı. i. o. ö. u. ü.",
+      "voice": "tr-TR-EmelNeural",
+      "file": "vowels.mp3"
+    },
+    {
+      "id": "contrast-i",
+      "text": "ılık. ilik.",
+      "voice": "tr-TR-EmelNeural",
+      "file": "contrast-i.mp3"
+    },
+    {
+      "id": "contrast-o",
+      "text": "on. ön.",
+      "voice": "tr-TR-AhmetNeural",
+      "file": "contrast-o.mp3"
+    },
+    {
+      "id": "contrast-u",
+      "text": "un. ün.",
+      "voice": "tr-TR-EmelNeural",
+      "file": "contrast-u.mp3"
+    },
+    {
+      "id": "hello",
+      "text": "Merhaba.",
+      "voice": "tr-TR-EmelNeural",
+      "file": "hello.mp3"
+    },
+    {
+      "id": "name",
+      "text": "Benim adım Deniz.",
+      "voice": "tr-TR-EmelNeural",
+      "file": "name.mp3"
+    },
+    {
+      "id": "question-name",
+      "text": "Senin adın ne?",
+      "voice": "tr-TR-AhmetNeural",
+      "file": "question-name.mp3"
+    },
+    {
+      "id": "pleased",
+      "text": "Memnun oldum.",
+      "voice": "tr-TR-AhmetNeural",
+      "file": "pleased.mp3"
+    },
+    {
+      "id": "repeat",
+      "text": "Tekrar eder misin?",
+      "voice": "tr-TR-EmelNeural",
+      "file": "repeat.mp3"
+    },
+    {
+      "id": "slow",
+      "text": "Yavaş, lütfen.",
+      "voice": "tr-TR-EmelNeural",
+      "file": "slow.mp3"
+    },
+    {
+      "id": "dialogue",
+      "text": "Merhaba. Benim adım Deniz. Senin adın ne? Benim adım Ece. Memnun oldum.",
+      "voice": "tr-TR-AhmetNeural",
+      "file": "dialogue.mp3"
+    },
+    {
+      "id": "dict-1",
+      "text": "çay",
+      "voice": "tr-TR-AhmetNeural",
+      "file": "dict-1.mp3"
+    },
+    {
+      "id": "dict-2",
+      "text": "üç",
+      "voice": "tr-TR-EmelNeural",
+      "file": "dict-2.mp3"
+    },
+    {
+      "id": "dict-3",
+      "text": "göz",
+      "voice": "tr-TR-AhmetNeural",
+      "file": "dict-3.mp3"
+    }
+  ]
+}
